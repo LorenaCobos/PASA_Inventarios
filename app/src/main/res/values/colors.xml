@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#017A42</color>
+    <color name="colorPrimaryT">#fff</color>
+    <color name="colorPrimaryTex">#000</color>
+    <color name="colorPrimaryDark">#008d4c</color>
+    <color name="colorAccent">#008d4c</color>
+    <color name="navigationBarColor">#008d4c</color>
+    <color name="lis_header">#ddd</color>
+    <color name="lis_boton">#c2f1eeee</color>
+</resources>
